@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/agatha12/FriendFinder/issues"
   },
-  "homepage": "https://github.com/agatha12/FriendFinder#readme"
+  "homepage": "https://github.com/agatha12/FriendFinder#readme",
+  "dependencies": {
+    "expres": "0.0.5",
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  }
 }
